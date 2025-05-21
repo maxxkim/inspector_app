@@ -1,0 +1,4 @@
+curl -H 'x-method-override: PATCH' \
+-H 'Cookie: JSESSIONID=0000Mngr_iA-Yg_kVDx1CH5C-jy:1d5rbnlgg; LtpaToken2=LDwUCF9DsaMx1PK1KaFR7unTf3sxvX+snDKVZ8PsfqYQEnDjmV9YGRy1/r7cLIuC3QPcw3pYdzt0Dgz551/7TY5rph4KYk4r5OwN12Z7qKqOt9AYYYCLlZjLT1vlJo5MD5uUcqWNCUQzvHXA3w8L1ynJbn1f5eaakvBYLybH8KysHEm18Y4DE1ucsENwrLKE6eXty1siSTxLhDYWsQ7U1b4hxpH7lVwRJRvUNmQMUFll9CZNmNVgVFBl+EgJfPO3b/j3ZjaUM8qRr3BhmKZSPhxTgJthdhVRckwiXbDd/8SJRdRb395wmu9YEmgMVB8YmKvtxYE86rguglCM6RjZTIR+4tGmwBSOW5ygVAL9kVmUj0pQrBqJDJtFNOa25P3iy/0nWx1lqIy/5jr9nLQa+W7aTjXHZoErt/sMOyEQJSM7ARg5NcWUWUvFPP+4mqDYjuNVSWRNzYCvE4KxvMlXIB5tQsV74ajusfC61W/CSRzyrU5jJzEzt8n7H2THJRWkHOLND9KipZgUFU3h4ZQm9w1OWdRqmq3aPiVDE4R+hwy2xgVoRaIqXUcs8OWrdNbuaN42hndKcsZAWZKhyYyh3zHj1sL0IM/CgEmLZru9cvUw/3wQEA90S3qzYi3r2/442owPkAGonrewXchpG3hZOdDMt9s95rX/lIUE3VQZ78Flszl5PEIq9Kr1/i1tU7Lg' \
+--data '{"goal": "Цель оправдывает средства 2"}' \
+-L -S -X POST 'https://maximodev.itps.ru:7889/maximo/oslc/os/checklistwo/_MTc5Mzc0OTEz'
